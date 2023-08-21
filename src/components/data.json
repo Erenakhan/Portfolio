@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Booking App",
+    "info": "This is a full-stack responsive booking app built using the MERN.",
+    "img": "Booking App",
+    "github": "https://github.com/Erenakhan/Mern_Stack_Booking-App",
+    "live": "https://mern-app-booking.vercel.app/"
+  },
+  {
+    "name": "Water Purifier Freelance",
+    "info": "This is a water purifier website for my costumer.",
+    "img": "Water Purifier",
+    "github": "https://github.com/Erenakhan/WaterPurifier_Freelance",
+    "live": "https://aquanatural.net/"
+  },
+  {
+    "name": "Getir Home Page",
+    "info": "This is www.getir.com Home page with Next js and Tailwind css.",
+    "img": "Getir Home Page",
+    "github": "https://github.com/Erenakhan/GetirHomepage-NextJs-Tailwind",
+    "live": ""
+  },
+  {
+    "name": "Tesla Home Page",
+    "info": "This is Tesla Home Page",
+    "img": "Tesla Home Page",
+    "github": "https://github.com/Erenakhan/Tesla-Homepage",
+    "live": ""
+  },
+  {
+    "name": "Bomb Game",
+    "info": "A game where you defuse a bomb by solving simple math problems (designed for kids).",
+    "img": "bomb",
+    "github": "https://github.com/Erenakhan/BombGame-React",
+    "live": ""
+  },
+  {
+    "name": "NoteApp",
+    "info": "A basic note-taking app that allows you to change the color of your virtual post-it notes.",
+    "img": "note",
+    "github": "https://github.com/Erenakhan/NoteApp-React",
+    "live": ""
+  },
+  {
+    "name": "Money Converter",
+    "info": "A simple money converter application that uses exchange rates for conversions.",
+    "img": "converter",
+    "github": "https://github.com/Erenakhan/Money_Converter",
+    "live": ""
+  },
+  {
+    "name": "Drum Kit",
+    "info": "A React-based version of the JavaScript 30-day challenge drum kit project.",
+    "img": "drumkit",
+    "github": "https://github.com/Erenakhan/React-Drum-Kit",
+    "live": "https://react-drum-7ye3n2dn9-erenakhan.vercel.app/"
+  },
+  
+  {
+    "name": "Movie App",
+    "info": "An application that displays movie information using the MovieDb API.",
+    "img": "movie",
+    "github": "https://github.com/Erenakhan/MovieApp_React",
+    "live": ""
+  },
+  {
+    "name": "Weather App",
+    "info": "A weather application built with React.js that provides weather data using the WeatherApp API.",
+    "img": "weather",
+    "github": "https://github.com/Erenakhan/WeatherApp-React",
+    "live": ""
+  },
+  {
+    "name": "Portfolio",
+    "info": "My personal portfolio website created using React.js.",
+    "img": "portfolio",
+    "github": "https://github.com/Erenakhan/Portfolio_React",
+    "live": "https://erenakhan.vercel.app/"
+  }
+]
