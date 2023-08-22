@@ -9,8 +9,8 @@ import converter from './images/converter.png';
 import drumkit1 from './images/drumkit1.png';
 import movie1 from './images/movie1.png';
 import note1 from './images/note1.png';
-import portfolio2 from './images/portfolio2.png';
-import weatherApp from './images/weatherApp.png';
+import portfolio from './images/portfolio.png';
+import WeatherApp from './images/WeatherApp.png';
 
 const photos = {
     "Booking App":Booking,
@@ -22,8 +22,8 @@ const photos = {
     "Money Converter": converter,
     "Drum Kit": drumkit1,
     "Movie App": movie1,
-    "Weather App": weatherApp,
-    "Portfolio": portfolio2,
+    "Weather App": WeatherApp,
+    "Portfolio": portfolio,
 };
 
 export default function Project() {
