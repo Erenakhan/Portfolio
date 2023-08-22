@@ -74,7 +74,7 @@
     "name": "Portfolio",
     "info": "My personal portfolio website created using React.js.",
     "img": "portfolio",
-    "github": "https://github.com/Erenakhan/Portfolio_React",
+    "github": "https://github.com/Erenakhan/Portfolio",
     "live": "https://erenakhan.vercel.app/"
   }
 ]
