@@ -71,7 +71,7 @@ export default function Main() {
             </p>
             </div>
             <div className='w-1/2 mr-0 flex justify-center items-center'>
-            <img src="https://avatars.githubusercontent.com/u/100142188?v=4" alt=""  className='rounded-full md:w-[400px] md:h-[400px] w-[220px] h-[220px] '/>
+            <img src="https://avatars.githubusercontent.com/u/100142188?v=4" alt=""  className='rounded-full md:w-[400px] md:h-[400px] w-[200px] h-[200px] '/>
             </div>
       </div>
       <Project />
