@@ -33,12 +33,14 @@ export default function Project() {
             <div className='mt-8 grid lg:grid-cols-3 grid-cols-1 md:grid-cols-2  gap-8 '>
                 {data.map((project) => (
                     <div  key={project.name} className='w-[350px]  md:w-[400px] gap-4    p-4 mx-auto flex  flex-col'>
-                      <img src={photos[project.name]} alt={project.name} className='object-cover h-[300px] w-full ' />
+                     
+                     <img src={photos[project.name]} alt={project.name} className='object-cover h-[300px] w-full shadow-xl '  />
+                    
                       <div className='w-full flex'>
                         <div className='w-1/2 ml-0 '>
                         <h1 className='font-semibold text-2xl text-white'>{project.name}</h1>
                         </div>
-                        <div className='w-1/2 mr-0 '>
+                        <div className='w-1/2 mr-0   '>
 
                         <div className='w-full h-full flex items-center'>
                             <div className='w-1/2 ml-0 flex justify-center'>

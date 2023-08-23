@@ -86,10 +86,12 @@ export default function Main() {
           <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
           <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs"/>
           <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/tailwind/tailwind.png" alt="tailwind"/>
+          
           <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"/>
           <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux"/>
           <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"/>
           <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express"/>
+          <img className="w-[40px] h-[40xp] md:w-[80px] md:h-[80px]" src="https://avatars.githubusercontent.com/u/45120?s=40&v=4" alt="express"/>
 
 
 
