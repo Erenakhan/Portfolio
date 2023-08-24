@@ -105,7 +105,7 @@ export default function Main() {
             <span className='text-left'>Name <br /><input type="name" className=' w-80 p-2  bg-transparent border-2'  placeholder='John Doe'/></span>
             <span className='text-left '>Email <br /><input type="email" className='bg-transparent w-80 p-2 border-2 ' placeholder='example@mail.com' /></span>
             <span className='text-left'>Text <br /><textarea type="text" placeholder='text me:)' className='border-2 bg-transparent w-80 p-2 ' /></span>
-            <button className='border-2 p-2 rounded-lg'>Send</button>
+            <button className='border-2 p-2 rounded-lg hover:scale-110'>Send</button>
             </form>
           </div>
         </div>
