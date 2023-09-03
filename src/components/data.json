@@ -14,6 +14,13 @@
     "live": "https://aquanatural.net/"
   },
   {
+    "name": "Find The Song",
+    "info": "Find the Song, a web application that lets users save and track their game scores while discovering new songs.",
+    "img": "findSong",
+    "github": "https://github.com/Erenakhan/Find_The_Song",
+    "live": "https://findthesong.vercel.app/"
+  },
+  {
     "name": "Getir Home Page",
     "info": "This is www.getir.com Home page with Next js and Tailwind css.",
     "img": "Getir Home Page",
