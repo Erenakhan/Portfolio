@@ -9,7 +9,7 @@ export default function Main() {
       setShowSecondText(true);
     };
 
-    const pdf_file_url = 'https://erenakhan.vercel.app/mustafaErenAKHAN.pdf';
+    const pdf_file_url = 'https://erenakhan.vercel.app/cv.pdf';
 
     function fileDownloader(url) {
       const fileName = url.split("/").pop();
